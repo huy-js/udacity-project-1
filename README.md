@@ -1,4 +1,30 @@
-# udacity-project-1
+# Udacity-Azure-Devops-Project-1
+Deploy a infrastructure as code in Azure using Azure CLI, Packer and Terraform
+
+## Installation
+1. Create Azure account
+2. Install Azure CLI
+3. Install Packer
+4. Install Terraform
+5. Install Git
+
+### Getting Started
+1. Clone repository
+2. Setting Azure Policy
+3. Config your environment variables
+4. Config packer file to your config
+5. Config terraform file to your config
+
+## Roadmap
+### Clone repository
+```sh
+git clone https://github.com/huy-js/udacity-project-1.git
+```
+
+### Login to Azure CLI
+```sh
+az login
+```
 
 ### Policy
 a. Create the Policy Definition
